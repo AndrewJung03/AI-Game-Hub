@@ -5,7 +5,7 @@ Game Hub is a full-stack web app where users can play:
 - **🧐 Trivia** powered by AI-generated questions  
 All gameplay is done through **your webcam** (no buttons to pick moves!).
 
-![Game Hub Demo](./gif/gif1.gif)
+![Game Hub Demo](./gif/gif3.gif)
 
 > Built with Flask, MongoDB, OpenAI Vision, and Docker containers for modular services.
 
